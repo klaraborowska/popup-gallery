@@ -46,7 +46,7 @@ section {
 }
 
 .popup-gallery a {
-
+    outline: none;
     display: block;
     float: left;
     width: 33.33%;
