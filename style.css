@@ -41,10 +41,6 @@ section {
     margin: 0 auto;
 }
 
-.popup-gallery {
-    background-color: #000;
-}
-
 .popup-gallery a {
     display: block;
     float: left;
@@ -53,6 +49,10 @@ section {
     overflow: hidden;
     margin: -5px;
     outline: none;
+}
+
+.popup-gallery a:hover {
+    opacity: 0.8;
 }
 
 img {
