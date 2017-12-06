@@ -29,7 +29,7 @@
 .navigation li a:hover {
     border: 1px solid #E48D00;
     border-radius: 5px;
-    padding: 10px;
+    padding: 8px;
     background-color: #E48D00;
     color: #fff;
     -webkit-transition: all 0.5s;
